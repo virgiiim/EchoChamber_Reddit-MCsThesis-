@@ -7,6 +7,8 @@ cause to their users Cognitive Dissonance. Such a discomfort leads users to sele
 themselves to information that supports their personal beliefs or values, i.e., confirmation
 bias. This trend is further reinforced by the reccomendation algorithms of the Social Networks
 which leads to phenomena such as Polarization and Echo Chambers. 
+
+
 This thesis, focusing on a political context of the first two and a half years of Donald Trump presidency, aims to identify
 Echo Chambers and measure Polarization on Reddit.
 Initially, we define a methodology to measure the political polarization of a sumbission
@@ -17,6 +19,8 @@ of both parties and subsequently training a Support Vector Machine to classiffy 
 to such extracted features. The latter is a neural approach. It leverages Word Embeddings
 and Long Short-Term Memory architecture in order to measure the polarization score
 of a submission by quantifying its agreement with both ideologies.
+
+
 Next, we verify the existence of polarized system, namely Echo Chamber, across three
 different topics concenrning socio-political issues. For all of them, we define the user interaction
 network, labeled by their polarization score. By applying algorithms of Community
