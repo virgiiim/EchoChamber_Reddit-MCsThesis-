@@ -1,4 +1,4 @@
-# MCs Thesis: 'Political Polarization & Echo Chamber: an Approach for Identification and Analysis on Reddit'
+# Political Polarization & Echo Chamber: an Approach for Identification and Analysis on Reddit
 
 ## Abstract:
 
