@@ -7,10 +7,7 @@ cause to their users Cognitive Dissonance. Such a discomfort leads users to sele
 themselves to information that supports their personal beliefs or values, i.e., confirmation
 bias. This trend is further reinforced by the reccomendation algorithms of the Social Networks
 which leads to phenomena such as Polarization and Echo Chambers. 
-
-
-This thesis, focusing on a
-political context of the first two and a half years of Donald Trump presidency, aims to identify
+This thesis, focusing on a political context of the first two and a half years of Donald Trump presidency, aims to identify
 Echo Chambers and measure Polarization on Reddit.
 Initially, we define a methodology to measure the political polarization of a sumbission
 (i.e., post on Reddit). Once a Ground Truth is created, we leverage two different algorithms/
